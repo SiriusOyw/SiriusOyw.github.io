@@ -1,0 +1,29 @@
+{
+  "name": "欧阳文",
+  "title": "高级 .NET 全栈工程师",
+  "subtitle": "9年C#/.NET开发经验，专注企业级应用与AI智能化落地",
+  "bio": "深耕 C#/.NET 技术栈 9 年，熟练使用 ASP.NET Core 和 ABP 框架，具备微服务拆分和 DDD 领域驱动设计实战经验。精通 EF Core 和 Dapper，擅长 SQL Server、MySQL 数据库性能优化及 Redis 缓存策略设计。\n\n具备全栈开发能力，独立对接 Vue 和 React 前端，完成 RESTful 接口设计与联调排错，掌握 Avalonia 跨平台桌面客户端开发。熟练 Docker 和 Kubernetes 容器技术，搭建结构化日志体系快速定位线上问题。\n\n积极拥抱 AI 技术，运用 CodeX、Qoder、Trae 等智能 IDE 提升开发效率，使用 Dify 平台编排业务工作流，落地企业问答知识库和文档查询类 AI 应用。热爱开源技术，持续在 GitHub 和 Gitee 进行项目开源，重视代码规范和单元测试，适配敏捷开发全流程。",
+  "avatar": "https://cdn.myanimelist.net/images/characters/2/299510.jpg",
+  "location": "上海",
+  "email": "SiriusOyw@outlook.com",
+  "phone": "13875653713",
+  "available": true,
+  "resumeUrl": "/api/resume",
+  "social": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com",
+      "icon": "github"
+    },
+    {
+      "name": "Gitee",
+      "url": "https://gitee.com",
+      "icon": "code"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:SiriusOyw@outlook.com",
+      "icon": "mail"
+    }
+  ]
+}

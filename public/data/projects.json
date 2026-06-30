@@ -1,0 +1,74 @@
+[
+  {
+    "id": "project-1",
+    "title": "物流综合服务平台",
+    "description": "面向医药特殊物料物流管控场景的全面升级重构项目。新增冷链运输、气体钢瓶、猴制品三类专项管控模块，优化业务流程，上线快递运单快捷下单功能。项目采用 .NET 10 + ABP + PureAdmin 前后端分离架构，引入 AI 能力实现业务智能化。基于 VLLM 大模型完成发货单智能识别、采购单自动生成，结合 Jieba 分词实现发货地址智能解析、标准化及匹配。",
+    "cover": "/images/project-portfolio.jpg",
+    "tech": [".NET 10", "ABP Framework", "PureAdmin", "Vue", "SQL Server", "Docker", "K8s", "VLLM", "AI"],
+    "github": "https://github.com",
+    "demo": "",
+    "featured": true,
+    "year": 2026,
+    "category": "企业应用"
+  },
+  {
+    "id": "project-2",
+    "title": "工作场所管理系统",
+    "description": "面向药企研发实验室合规管控场景，支撑管理员日常实验室巡检业务。支持违规问题录入、整改分派、复查闭环跟踪，搭建实验设备全生命周期管理体系。系统包含每日巡检、巡检历史、实验室信息管理、设备管理、统计报表五大核心模块。基于 ABP 框架 + PureAdmin 后台管理模板构建。",
+    "cover": "/images/project-dashboard.jpg",
+    "tech": [".NET 8", "ABP Framework", "PureAdmin", "Vue", "SQL Server", "CI/CD"],
+    "github": "https://github.com",
+    "demo": "",
+    "featured": true,
+    "year": 2025,
+    "category": "企业应用"
+  },
+  {
+    "id": "project-3",
+    "title": "物流服务平台",
+    "description": "面向化学试剂、生物耗材全生命周期库存管控系统，覆盖上海、武汉、天津、南通、成都等多地业务站点。包含入库管理、出库管理、配送管理、退库管理、库存查询、库存盘点等核心业务模块，实现多站点试剂耗材收发、流转、盘点一体化线上管理。",
+    "cover": "/images/project-ecommerce.jpg",
+    "tech": [".NET Framework", "Layui", "SQL Server", "Redis"],
+    "github": "https://github.com",
+    "demo": "",
+    "featured": true,
+    "year": 2024,
+    "category": "企业应用"
+  },
+  {
+    "id": "project-4",
+    "title": "i麦当劳点餐小程序",
+    "description": "让用户随时掌上订餐的客户端应用，包含到店点餐、麦乐送、麦咖啡、甜品站四个小程序。通过小程序获取官方最新活动，随时抢专属定制优惠券。基础服务包括订单服务、支付服务、商品服务、门店服务、券码服务等。",
+    "cover": "/images/project-ai.jpg",
+    "tech": [".NET", "SQL Server", "Redis", "RabbitMQ", "SkyWalking", "Grafana"],
+    "github": "",
+    "demo": "",
+    "featured": false,
+    "year": 2021,
+    "category": "小程序"
+  },
+  {
+    "id": "project-5",
+    "title": "巴黎贝甜管理平台",
+    "description": "专为商户提供的查看与管理点餐小程序的后台，实现全功能聚合。包含商品管理、菜单管理、账号权限、订单管理、促销管理、会员管理、门店管理、企业团餐、系统设置等功能。同时开发巴黎贝甜点餐小程序，支持拼单等贴心功能。",
+    "cover": "/images/project-collab.jpg",
+    "tech": ["Spring Boot", "MySQL", "Nacos", "RabbitMQ", "Redis", "Java"],
+    "github": "",
+    "demo": "",
+    "featured": false,
+    "year": 2021,
+    "category": "管理后台"
+  },
+  {
+    "id": "project-6",
+    "title": "水果通服务平台",
+    "description": "为公司提供一体化进口水果服务的综合平台，包含代理、清关、物流服务。报关报检方面与上港、榕基易检互有数据交互，国内物流跟踪通过港区电子围栏与集卡北斗导航数据实现地图实时跟踪。主要模块有货代单证、海运空运报关、报检、税金管理、物流管理等。",
+    "cover": "/images/project-design-system.jpg",
+    "tech": [".NET Core", "DDD", "Web API", "EF Core", "Redis", "Vue", "MySQL"],
+    "github": "",
+    "demo": "",
+    "featured": false,
+    "year": 2019,
+    "category": "企业应用"
+  }
+]

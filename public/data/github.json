@@ -1,0 +1,86 @@
+{
+  "username": "SiriusOyw",
+  "avatar": "https://cdn.myanimelist.net/images/characters/2/299510.jpg",
+  "name": "欧阳文",
+  "bio": "高级 .NET 全栈工程师 · 9年开发经验 · AI技术践行者",
+  "followers": 86,
+  "following": 42,
+  "publicRepos": 24,
+  "contributions": [],
+  "pinnedRepos": [
+    {
+      "name": "ABP-Next-Boilerplate",
+      "description": "基于ABP框架的企业级项目模板，集成多租户、权限管理、审计日志",
+      "url": "https://github.com",
+      "stars": 56,
+      "forks": 23,
+      "language": "C#",
+      "topics": ["abp", "dotnet", "microservice", "ddd"]
+    },
+    {
+      "name": "DDD-CQRS-Template",
+      "description": "DDD + CQRS 架构实战模板，集成MediatR、FluentValidation、AutoMapper",
+      "url": "https://github.com",
+      "stars": 89,
+      "forks": 34,
+      "language": "C#",
+      "topics": ["ddd", "cqrs", "dotnet", "clean-architecture"]
+    },
+    {
+      "name": "Logging-Helper",
+      "description": "结构化日志工具库，支持Serilog、NLog、Log4Net多Provider切换",
+      "url": "https://github.com",
+      "stars": 34,
+      "forks": 12,
+      "language": "C#",
+      "topics": ["logging", "serilog", "dotnet"]
+    },
+    {
+      "name": "SmartOCR-Address",
+      "description": "基于VLLM的快递单智能识别与地址解析服务，集成Jieba分词",
+      "url": "https://github.com",
+      "stars": 120,
+      "forks": 28,
+      "language": "Python",
+      "topics": ["ocr", "vllm", "ai", "address-parsing"]
+    }
+  ],
+  "recentRepos": [
+    {
+      "name": "Dify-Workflow-Examples",
+      "description": "Dify平台AI工作流编排示例集合，包含知识库问答、文档查询等",
+      "url": "https://github.com",
+      "stars": 45,
+      "forks": 16,
+      "language": "YAML",
+      "topics": ["dify", "ai-workflow", "llm"]
+    },
+    {
+      "name": "Avalonia-Desktop-App",
+      "description": "基于Avalonia的跨平台桌面应用示例，演示MVVM架构",
+      "url": "https://github.com",
+      "stars": 28,
+      "forks": 9,
+      "language": "C#",
+      "topics": ["avalonia", "desktop", "mvvm"]
+    },
+    {
+      "name": "Performance-Benchmark",
+      "description": ".NET性能基准测试集合，包含EF Core与Dapper性能对比",
+      "url": "https://github.com",
+      "stars": 67,
+      "forks": 21,
+      "language": "C#",
+      "topics": ["benchmark", "performance", "dotnet"]
+    }
+  ],
+  "languages": [
+    { "name": "C#", "percentage": 65, "color": "#239120" },
+    { "name": "JavaScript", "percentage": 12, "color": "#F7DF1E" },
+    { "name": "Python", "percentage": 8, "color": "#3776AB" },
+    { "name": "Java", "percentage": 5, "color": "#ED8B00" },
+    { "name": "TypeScript", "percentage": 5, "color": "#3178C6" },
+    { "name": "SQL", "percentage": 3, "color": "#CC2927" },
+    { "name": "Other", "percentage": 2, "color": "#6C757D" }
+  ]
+}

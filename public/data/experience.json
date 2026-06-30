@@ -1,0 +1,117 @@
+[
+  {
+    "id": "exp-1",
+    "company": "万宝盛华人力资源（中国）有限公司",
+    "position": ".NET 全栈开发（外派药明康德）",
+    "startDate": "2024-05",
+    "endDate": null,
+    "description": "参与公司核心产品研发，开展需求分析、方案架构设计与功能开发。基于 .NET 8/10 进行后端开发，适配 SQL Server 数据库，使用 Vue 完成前端开发，实现前后端全栈开发。参与 AI 业务场景对接与智能化功能落地，依托 CI/CD 流程实现项目持续集成与自动化部署。",
+    "tech": [".NET 8/10", "ABP Framework", "Vue", "SQL Server", "Docker", "Kubernetes", "AI"],
+    "highlights": [
+      "负责物流平台、试剂、监管品、精麻管理等多套业务系统运维迭代优化",
+      "独立完成工作场所管理系统从 0 到 1 全流程设计、开发与上线部署",
+      "独立完成物流综合服务平台从 0 到 1 全流程设计、开发与上线部署",
+      "基于 VLLM 大模型实现发货单智能识别与地址解析"
+    ],
+    "type": "work"
+  },
+  {
+    "id": "exp-2",
+    "company": "上海睿祈科技有限公司",
+    "position": "C# 全栈开发",
+    "startDate": "2020-03",
+    "endDate": "2024-03",
+    "description": "参与开发公司核心产品，负责功能模块的设计和开发，参与需求分析、项目计划制定、架构设计等工作。使用 .NET 6 框架和 SQL Server、MySQL 数据库进行开发，完成自测任务，CI/CD 持续部署。",
+    "tech": [".NET 6", "ASP.NET MVC", "SQL Server", "Redis", "RabbitMQ", "Docker", "K8s", "Jenkins"],
+    "highlights": [
+      "上海非码科技有限公司驻场开发，参与 i麦当劳点餐小程序、巴黎贝甜点餐小程序等项目",
+      "上海如家管理有限公司驻场开发，参与如家官网等项目",
+      "外派到卡尔蔡司参与 RMS WiseInstallation 项目",
+      "学习微服务、分布式系统设计、日志监控与链路追踪"
+    ],
+    "type": "work"
+  },
+  {
+    "id": "exp-3",
+    "company": "生鲜港电子商务有限公司",
+    "position": ".NET 程序员",
+    "startDate": "2017-09",
+    "endDate": "2020-03",
+    "description": "主要负责服务端代码的编写（Web API 接口、业务代码、统计报表等），同时在技术 Leader 的带领下参与需求分析与数据库建模。自主学习 Web API 开发与 RESTful API 设计并应用到项目中。",
+    "tech": [".NET Core", "Web API", "EF Core", "DDD", "MySQL", "Vue", "Redis"],
+    "highlights": [
+      "完成水果通服务平台从 .NET Framework 到 .NET Core 2.1 的升级",
+      "独立开发物流自动查询系统",
+      "学习 DDD 架构设计并应用到项目中",
+      "敏捷开发实践"
+    ],
+    "type": "work"
+  },
+  {
+    "id": "exp-4",
+    "company": "卡尔蔡司（外派）",
+    "position": "后端开发 - RMS WiseInstallation",
+    "startDate": "2023-05",
+    "endDate": "2024-03",
+    "description": "在客户完成采购后，团队成员需要在 WECOM 上对设备安装流程全周期进行管理。流程包括安装前的订单信息填写、提交场测需求并实施、安装流程、安装后的 FAC 上传以及培训流程。系统同时支持移动端和 PC 端。",
+    "tech": [".NET 6", "React", "Redis", "Hangfire", "IdentityServer", "Nacos", "Azure DevOps"],
+    "highlights": [
+      "基于 K2 流程引擎进行流程控制",
+      "使用 Azure Log Analytics 进行日志收集",
+      "集成 CSRF 跨站请求防御"
+    ],
+    "type": "work"
+  },
+  {
+    "id": "exp-5",
+    "company": "如家酒店集团",
+    "position": "全栈开发 - 如家官网",
+    "startDate": "2021-11",
+    "endDate": "2023-04",
+    "description": "如家官网是如家酒店集团的官方网站，提供酒店预订、会员服务、企业合作等功能。采用 ASP.NET MVC 技术和 SQL Server 数据库，前端使用 Bootstrap 和 jQuery。系统采用微服务架构，使用 Redis、MongoDB、RabbitMQ、Docker、K8s 等技术栈。",
+    "tech": ["ASP.NET MVC", "SQL Server", "Redis", "MongoDB", "RabbitMQ", "Docker", "K8s"],
+    "highlights": [
+      "负责后端业务代码编写、数据库调优、协助前端联调",
+      "学习 Docker、K8s、Jenkins 流水线等新技术",
+      "配合架构组进行服务器配置、开发框架升级"
+    ],
+    "type": "work"
+  },
+  {
+    "id": "exp-6",
+    "company": "麦当劳（外派非码科技）",
+    "position": "开发 - i麦当劳点餐小程序",
+    "startDate": "2020-04",
+    "endDate": "2021-05",
+    "description": "i麦当劳点餐小程序让用户随时掌上订餐，获取官方最新活动与优惠券。项目分为到店点餐、麦乐送、麦咖啡、甜品站四个小程序，基础服务包括订单服务、支付服务、商品服务、门店服务、券码服务等。",
+    "tech": [".NET", "SQL Server", "Redis", "RabbitMQ", "SkyWalking", "Grafana"],
+    "highlights": [
+      "负责到店取餐和麦乐送的聚合层开发、OFS 接单系统的开发维护",
+      "完成早餐月卡、Oh 麦卡、随心配等重点功能开发",
+      "完成千万级用户信息数据迁移"
+    ],
+    "type": "work"
+  },
+  {
+    "id": "exp-7",
+    "company": "湖南城市学院",
+    "position": "本科 - 计算机科学与技术",
+    "startDate": "2022-09",
+    "endDate": "2024-06",
+    "description": "计算机科学与技术专业本科学习",
+    "tech": ["C#", "Java", "Python", "数据库"],
+    "highlights": [],
+    "type": "education"
+  },
+  {
+    "id": "exp-8",
+    "company": "衡阳师范学院",
+    "position": "大专 - 计算机应用技术",
+    "startDate": "2015-09",
+    "endDate": "2017-06",
+    "description": "计算机应用技术专业大专学习",
+    "tech": ["C#", "Web 开发"],
+    "highlights": [],
+    "type": "education"
+  }
+]
